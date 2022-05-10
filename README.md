@@ -1,5 +1,6 @@
 ### Hi there <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/raw/main/wave.gif" width="70px" style="max-width: 100%;">
 
+<hr>
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-jaffal&theme=chartreuse-dark&show_icons=true)
 
@@ -27,7 +28,6 @@
 
 
 
-<hr>
 
 
 
