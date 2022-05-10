@@ -2,7 +2,7 @@
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-jaffal&theme=chartreuse-dark&show_icons=true)
 
-
+<hr>
 
 - 🔭 I’m currently an SE Factory student
 - 🌱 I’m currently learning Full Stack Web Development
