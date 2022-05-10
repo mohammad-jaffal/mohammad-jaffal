@@ -2,6 +2,8 @@
 
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-jaffal&theme=chartreuse-dark&show_icons=true)
 
+
+
 - 🔭 I’m currently an SE Factory student
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I studied Computer Engineering
@@ -9,3 +11,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [Email](mailto:mhmmdjaffal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohammad-jaffal-5139ab193)
 
+[![My Skills](https://skillicons.dev/icons?i=java,python,flutter,dart,figma&theme=dark)](https://skillicons.dev)
