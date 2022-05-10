@@ -1,6 +1,11 @@
 ### Hi there <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/raw/main/wave.gif" width="70px" style="max-width: 100%;">
 
-[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-jaffal)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammad-jaffal)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-jaffal&show_icons=true)  
 
 
 - 🔭 I’m currently an SE Factory student
