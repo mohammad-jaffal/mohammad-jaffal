@@ -1,6 +1,6 @@
 ### Hi I'm Mohammad Jaffal 👋
 
-[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-jaffal)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-jaffal)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently an SE Factory student
