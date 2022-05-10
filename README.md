@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/raw/main/wave.gif" width="70px" style="max-width: 100%;">
+### Hi there <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/raw/main/wave.gif" width="70px" style="max-width: 100%;">  Make yourself at home :house_with_garden: 
 
 <hr>
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I studied Computer Engineering
 - 📫 How to reach me: [Email](mailto:mhmmdjaffal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohammad-jaffal-5139ab193)
-- :house_with_garden: Make yourself at home :)
+
 
 <hr>
 
