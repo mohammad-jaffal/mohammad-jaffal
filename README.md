@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently an SE Factory student
-- 🌱 I’m currently learning Full Stack Web Development
-- :books: I studied Computer Engineering
+- 📚 I’m currently learning Full Stack Web Development
+- 🎓 I studied Computer Engineering
 - 📫 How to reach me: [Email](mailto:mhmmdjaffal@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohammad-jaffal-5139ab193)
 
 
