@@ -23,7 +23,7 @@
  Skills</h2>
 
 
-![My Skills](https://skillicons.dev/icons?i=java,py,flutter,dart,firebase&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,py,flutter,dart,js,php,laravel,nodejs,react&theme=dark)
 
 
 
